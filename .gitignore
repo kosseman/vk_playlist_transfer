@@ -1,0 +1,9 @@
+config_vk.ini
+GITHUB_SETUP.md
+cookies.txt
+logs/
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
